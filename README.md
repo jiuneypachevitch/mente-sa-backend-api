@@ -41,7 +41,7 @@ yarn dev
 ```bash
 yarn docs
 ```
-## O frontend está no repositório: [Mente Sã backend API] (https://github.com/jiuneypachevitch/mente-sa-frontend)
+## O frontend está no repositório: [Mente Sã frontend] (https://github.com/jiuneypachevitch/mente-sa-frontend)
 
 \o/ ainda em desenvolvimento...
 
